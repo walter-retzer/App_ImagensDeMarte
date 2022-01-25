@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App_ImgensDeMarte</string>
+    <string name="pr_ximo">PRÓXIMO</string>
+    <string name="login_facebook">Fazer login com o Facebook</string>
+    <string name="login_google">Fazer login com o Google</string>
+    <string name="login">LOGIN</string>
+    <string name="infoCadastro">Insira seus dados abaixo para realizar o cadastro:</string>
+    <string name="comeca">Bora Começar!</string>
+    <string name="explore_o_planeta_marte">Explore o Planeta Marte!!</string>
+    <string name="marte">Marte</string>
+    <string name="nome_do_app">Nome do App</string>
+    <string name="fotos_de_marte">Fotos de Marte</string>
+    <string name="fotosderovers">Pesquise as fotos tiradas pelos Rovers em Marte!!</string>
+</resources>
